@@ -19,7 +19,6 @@ As of right now it is just "Hello World"
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [O'Reilly - Django 3 - Full Stack Websites with Python Web Development](https://learning.oreilly.com/videos/django-3/9781801818148/)
 * [Sitepoint - PYTHON WEB DEVELOPMENT WITH DJANGO AND FLASK: GETTING STARTED](https://www.sitepoint.com/premium/books/python-web-development-with-django-and-flask-getting-started/read/1/)
 
