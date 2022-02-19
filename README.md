@@ -1,34 +1,30 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineer I have learned problem solving skills and syntax rules that I can apply when learning new languages and frameworks. I have spent a couple of weeks trying to learn how to make a web application using Django and Python.
 
-{Provide a description the web app that you wrote. Describe how to start a test server on your computer and what website to open up to see the first page of the app.}
+I have created a web application that displays "Hello World". 
+My goal was to have a recipe app that could add and remove recipes and images. I ran into a few problems that slowed down my process but I am really excited about this project idea so I am going to keep trying and update this repository as soon as I get the code running properly
 
-{Describe your purpose for writing this software.}
+The purpose of writing this was to learn how to use Django and Python together.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Web Pages
 
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
+As of right now it is just "Hello World"
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Django
+* Python 3.10.0
+* Visual Studio Code
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [O'Reilly - Django 3 - Full Stack Websites with Python Web Development](https://learning.oreilly.com/videos/django-3/9781801818148/)
+* [Sitepoint - PYTHON WEB DEVELOPMENT WITH DJANGO AND FLASK: GETTING STARTED](https://www.sitepoint.com/premium/books/python-web-development-with-django-and-flask-getting-started/read/1/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add and delete recipes 
+* Have a login so different people can log in and use the app
+* database that stores recipes
